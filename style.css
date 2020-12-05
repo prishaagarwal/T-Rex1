@@ -1,0 +1,16 @@
+html, body
+ {
+  margin: 0;
+
+  padding: 0;
+
+}
+
+canvas 
+{
+
+margin-left:50%;
+margin-top:50%;
+  display: block;
+
+}
